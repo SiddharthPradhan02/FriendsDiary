@@ -4,7 +4,7 @@ class Title extends React.Component{
     render(){
         return(
             <div>
-                This is my classs componentttttt
+                This is my classs component
             </div>
         )
     }
